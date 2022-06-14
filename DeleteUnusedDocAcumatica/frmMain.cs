@@ -35,12 +35,6 @@ namespace DeleteUnusedDocAcumatica
             passAcum = Properties.Settings.Default.passAcumatica;
         }
 
-        private void btnSearch_Click(object sender, EventArgs e)
-        {
-               
-
-        }
-
         private void searchData(string dcstatus, string dctype)
         {
             if (cmbFinPeriod.Text.Trim() == "")
