@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DeleteUnusedDocAcumatica.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">THINK-HEF\SQLDEV2019</Value>
+    </Setting>
+    <Setting Name="databaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AcumaticaSGLILive</Value>
+    </Setting>
+    <Setting Name="userDb" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="passDb" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Admin2022</Value>
+    </Setting>
+    <Setting Name="loginAcumatica" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">acumatica</Value>
+    </Setting>
+    <Setting Name="passAcumatica" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="DeleteUnusedDocAcumatica_ServicesAcum_Screen" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:82/AcumaticaSGLILive/Soap/SGLI.asmx</Value>
+    </Setting>
+    <Setting Name="serviceUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:82/AcumaticaSGLILive/Soap/SGLI.asmx</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T+4Ai6O3CR0kJYxCgXy2jA==</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T+4Ai6O3CR0kJYxCgXy2jA==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
